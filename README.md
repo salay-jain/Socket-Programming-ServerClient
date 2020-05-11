@@ -1,5 +1,3 @@
-# Socket-Programming-ServerClient
-
 # Socket Programing: Server-Client File Sharing Protcol
 
 In this project we have created a file sharing protocol with functionalities like
@@ -7,8 +5,11 @@ download and upload for files and indexed searching.
 Following features need are implemented :
 - The system should have 2 clients (acting as servers simultaneously) listening to the communication channel for requests and waiting to share files (avoiding collisions) using an application layer protocol(like FTP/HTTP).
 - Each client has the ability to do the following :
+
 	○ Know the files present on each others machines in the designated shared folders.
+	
 	○ Download files from this shared folder
+
 -File transfer should incorporate MD5 checksum to handle file transfer errors.
 
 # Commands and Intructions:
