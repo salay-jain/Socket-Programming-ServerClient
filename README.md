@@ -10,7 +10,7 @@ Following features need are implemented :
 	
 	○ Download files from this shared folder
 
--File transfer should incorporate MD5 checksum to handle file transfer errors.
+- File transfer should incorporate MD5 checksum to handle file transfer errors.
 
 # Commands and Intructions:
 
